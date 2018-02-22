@@ -29,6 +29,7 @@ crashlytics-build.properties
 fabric.properties
 
 # Gradle stuff
+gradle/
 .gradle
 /build/
 
